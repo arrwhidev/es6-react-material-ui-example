@@ -1,2 +1,5 @@
 # es6-react-material-ui-example
-ES6 React Material UI Example
+
+An example project using ES6 JavaScript, React, Material UI, Babel & Gulp.
+
+TODO - replace browserify with webpack.
